@@ -1,6 +1,8 @@
-# google cloud speech
+# google cloud speech api
 
+learn google [cloud speech api](https://cloud.google.com/speech/)
 
+## creating speech audio
 
 * record audio using audacity
 * record a single channel / mono
